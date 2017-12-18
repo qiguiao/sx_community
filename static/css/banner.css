@@ -1,0 +1,46 @@
+.el-carousel__container{
+  height: 160px;
+}
+ .block{
+  background: #fff;
+  padding-top: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 15px;
+
+} 
+.block h4{
+  padding-bottom: 20px;
+  font-size: 18px;
+}
+.el-carousel{
+     width: 100%;  
+}
+.el-carousel__item{
+  display: flex;
+}
+.el-carousel__item div{
+  flex:1;
+  text-align: center;
+  line-height: 150px;
+    color:#fff;
+}
+.el-carousel__item div h5{
+  height: 30px;
+  line-height: 30px;
+  margin:0;
+  color:#fff;
+}
+.el-carousel__item div p{
+  height: 30px;
+  line-height: 30px;
+   color:#fff;
+}
+.cont-title{
+  padding-top: 30px;
+}
+ .el-carousel__container h3{
+    height: 160px;
+    line-height: 160px;
+    text-align: center;
+}
